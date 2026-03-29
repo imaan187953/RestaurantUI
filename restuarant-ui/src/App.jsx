@@ -22,7 +22,7 @@ function App() {
   {/* Sidebar */}
   <Sidebar />
 
-  {/* 🔥 Middle Section (NARROW like design) */}
+  {/*Middle Section*/}
   <div className="w-[480px] bg-[#eef4ee] overflow-y-scroll flex justify-center border-r">
     
     <div className="w-[420px] py-6">
@@ -69,7 +69,7 @@ function App() {
     </div>
   </div>
 
-  {/* 🔥 Map */}
+  {/*Map */}
   <div className="flex-1">
     <MapView />
   </div>
